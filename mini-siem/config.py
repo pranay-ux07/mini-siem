@@ -1,0 +1,4 @@
+# Detection thresholds
+
+BRUTE_FORCE_THRESHOLD = 5
+SUSPICIOUS_THRESHOLD = 3
